@@ -1,0 +1,27 @@
+/*couleur de l'arrière plan des quatre sections*/
+.section{
+    background-color: #88c1d0;
+}
+
+/*mediaqueries résolution >=1600px*/
+@media screen and (min-width: 1600px) {
+    body {
+        background-color: #88c1d0;
+    }
+}
+
+/*mediaqueries résolution 768px-1599*/
+@media screen and (min-width: 768px) and (min-height: 1599px){
+    body {
+        background-color: #88c1d0;
+    }
+}
+
+/*mediaqueries résolution <=*/
+@media screen and (max-width: 767px){
+    body {
+        background-color: #88c1d0;
+    }
+}
+
+

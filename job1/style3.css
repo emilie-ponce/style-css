@@ -5,7 +5,7 @@ html{
 
 /*feuille de style 1280px et 1680px*/
 @media screen and (min-width: 1280px) and (max-width: 1680px){
-body{
-    background-color: #2069bd;
-}
+    body{
+        background-color: #2069bd;
+    }
 }
