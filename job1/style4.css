@@ -1,3 +1,11 @@
-body{
- background-color: #ffffff;   
+/*couleur arrière plan*/
+html{
+    background-color: #ffffff;   
+}
+
+/*feuille de style inférieure à 1280px*/
+@media screen and (max-width: 1280px){
+    body{
+        background-color: #695f5f;
+    }
 }
